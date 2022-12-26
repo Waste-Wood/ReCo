@@ -134,7 +134,7 @@ if hps.cuda:
 logger.info("[INFO] Starting Training")
 step = 0
 patient = 0
-best_accuracy = 0.64 if hps.language == 'chinese' else 0.69
+best_accuracy = 0
 stop_train = False
 idx = 0
 
