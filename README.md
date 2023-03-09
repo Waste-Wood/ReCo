@@ -1,5 +1,5 @@
 ## ReCo: Reliable Causal Chain Reasoning via Structural Causal Recurrent Neural Networks
-For more details, please refer to our paper: [ReCo: Reliable Causal Chain Reasoning via Structural Causal Recurrent Neural Networks](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.431/).
+For more details, please refer to our paper: [ReCo: Reliable Causal Chain Reasoning via Structural Causal Recurrent Neural Networks](https://aclanthology.org/2022.emnlp-main.431/).
 
 ### 1. Project Structure
 ```shell
