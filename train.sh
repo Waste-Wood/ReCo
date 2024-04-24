@@ -34,7 +34,7 @@ python3 train.py \
 # Training on English CRC dataset
  python3 train.py \
    --data_dir "./data/english/" \
-   --transformer_dir "./data/roberta-base" \
+   --transformer_dir "./data/bert-base-cased" \
    --output_dir "./output" \
    --log_dir "./output" \
    --train "train.json" \
